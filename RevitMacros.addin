@@ -2,7 +2,7 @@
 <RevitAddIns>
   <AddIn Type="Command">
     <Assembly>
-      C:\data\RevitMacros\RevitMacros\bin\Debug\RevitMacros.dll
+      C:\ProgramData\Autodesk\Revit\Addins\2016\RevitMacros.dll
     </Assembly>
     <ClientId>
       4D06A148-7129-4516-9124-0F6B6134E4C9
@@ -15,7 +15,7 @@
 
   <AddIn Type="Command">
     <Assembly>
-      C:\data\RevitMacros\RevitMacros\bin\Debug\RevitMacros.dll
+      C:\ProgramData\Autodesk\Revit\Addins\2016\RevitMacros.dll
     </Assembly>
     <ClientId>
       68565239-6E79-4542-BA98-F0C502B5E04D
@@ -25,4 +25,19 @@
     <VendorId>JRM</VendorId>
     <VisibilityMode>AlwaysVisible</VisibilityMode>
   </AddIn>
+
+
+  <AddIn Type="Command">
+    <Assembly>
+      C:\ProgramData\Autodesk\Revit\Addins\2016\RevitMacros.dll
+    </Assembly>
+    <ClientId>
+      3F7919C1-2BEC-410C-A0FB-D49EDD133E89
+    </ClientId>
+    <FullClassName>TravelPath</FullClassName>
+    <Text>Travel Path</Text>
+    <VendorId>JRM</VendorId>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+
 </RevitAddIns>

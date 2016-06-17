@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TravelPath.cs" />
     <Compile Include="MakeInternalElevations.cs" />
     <Compile Include="RevitMacros.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -55,7 +56,14 @@
   <ItemGroup>
     <Content Include="RevitMacros.addin" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="install.bat" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy "C:\data\RevitMacros\bin\Debug\RevitMacros.dll" "C:\ProgramData\Autodesk\Revit\Addins\2016\"
+copy "C:\data\RevitMacros\RevitMacros.addin" "C:\ProgramData\Autodesk\Revit\Addins\2016\"</PostBuildEvent>
+  </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
