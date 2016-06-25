@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>
+      C:\test\Lab1PlaceGroup\Lab1PlaceGroup\bin\Release\Lab1PlaceGroup.dll
+    </Assembly>
+    <ClientId>
+      4D06A148-7129-4516-9124-0F6B6134E4C9
+    </ClientId>
+    <FullClassName>RevitMacro</FullClassName>
+    <Text>revit macro</Text>
+    <VendorId>JRM</VendorId>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+</RevitAddIns>
