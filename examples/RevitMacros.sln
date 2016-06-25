@@ -1,0 +1,100 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change Elevation Lineweights_v1.1_2016", "Change Elevation Lineweights_v1.1_2016\Change Elevation Lineweights_v1.1_2016.csproj", "{24A515CC-735B-4424-BE52-02272B698EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insert DWGs to Drafting Views_v1_2016", "Insert DWGs to Drafting Views_v1_2016\Insert DWGs to Drafting Views_v1_2016.csproj", "{2311307D-4323-47FB-B64A-B3B23FE2FD98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batch Duplicate View_v1_2016", "Batch Duplicate View_v1_2016\Batch Duplicate View_v1_2016.csproj", "{C1A2AE79-6BB2-421F-ADCE-56BDDB4FF598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batch Link RVT Files_v1_2016", "Batch Link RVT Files_v1_2016\Batch Link RVT Files_v1_2016.csproj", "{17C596C3-E71D-4413-813E-DB338A547E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeTextCase_v1_2016", "ChangeTextCase_v1_2016\ChangeTextCase_v1_2016.csproj", "{2FBA431E-C56D-44FF-A36C-7DA271AD346E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Export Schedules to CSV_2016_v1", "Export Schedules to CSV_2016_v1\Export Schedules to CSV_2016_v1.csproj", "{D26EE377-F993-46EE-A659-A4AFC5835FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Link-Import DWGs from CSV_v1_2015", "Link-Import DWGs from CSV_v1_2015\Link-Import DWGs from CSV_v1_2015.csproj", "{80521E3E-C192-4B39-AF6C-25E2531DC68E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Macro_Align Views_v1_2015", "Macro_Align Views_v1_2015\Macro_Align Views_v1_2015.csproj", "{A7C19D2D-3F4D-4067-83E2-B3784224A7E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Macro_Delete Unused Views - 2015", "Macro_Delete Unused Views - 2015\Macro_Delete Unused Views - 2015.csproj", "{2459BD6F-B015-4D00-AEEF-1316DF40F89C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Macro_Replace Font_v1 2015", "Macro_Replace Font_v1 2015\Macro_Replace Font_v1 2015.csproj", "{E6CC860D-5489-4699-8544-DB3F8ED394A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Macro-DWG to RVT Lines_v1.6 2015", "Macro-DWG to RVT Lines_v1.6 2015\Macro-DWG to RVT Lines_v1.6 2015.csproj", "{46E9B379-580E-497E-902E-361B1BC93390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revit Renamer_v2_2016", "Revit Renamer_v2_2016\Revit Renamer_v2_2016.csproj", "{5BB1A4F2-8FF5-4102-9722-7CA41340A1E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sheetMaker viewMaker macro - v3_2016", "sheetMaker viewMaker macro - v3_2016\sheetMaker viewMaker macro - v3_2016.csproj", "{BEEF66C3-7D3C-45FB-848D-C9BEB8E02C47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walls From Lines macro - v1_2016", "Walls From Lines macro - v1_2016\Walls From Lines macro - v1_2016.csproj", "{8860EC38-C866-4078-A0E1-FD65AB5ABF84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A515CC-735B-4424-BE52-02272B698EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A515CC-735B-4424-BE52-02272B698EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A515CC-735B-4424-BE52-02272B698EF1}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A515CC-735B-4424-BE52-02272B698EF1}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{2311307D-4323-47FB-B64A-B3B23FE2FD98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2311307D-4323-47FB-B64A-B3B23FE2FD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2311307D-4323-47FB-B64A-B3B23FE2FD98}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2311307D-4323-47FB-B64A-B3B23FE2FD98}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{C1A2AE79-6BB2-421F-ADCE-56BDDB4FF598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A2AE79-6BB2-421F-ADCE-56BDDB4FF598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A2AE79-6BB2-421F-ADCE-56BDDB4FF598}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A2AE79-6BB2-421F-ADCE-56BDDB4FF598}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{17C596C3-E71D-4413-813E-DB338A547E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C596C3-E71D-4413-813E-DB338A547E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C596C3-E71D-4413-813E-DB338A547E0D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C596C3-E71D-4413-813E-DB338A547E0D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{2FBA431E-C56D-44FF-A36C-7DA271AD346E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBA431E-C56D-44FF-A36C-7DA271AD346E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBA431E-C56D-44FF-A36C-7DA271AD346E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBA431E-C56D-44FF-A36C-7DA271AD346E}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D26EE377-F993-46EE-A659-A4AFC5835FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26EE377-F993-46EE-A659-A4AFC5835FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26EE377-F993-46EE-A659-A4AFC5835FA5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26EE377-F993-46EE-A659-A4AFC5835FA5}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{80521E3E-C192-4B39-AF6C-25E2531DC68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80521E3E-C192-4B39-AF6C-25E2531DC68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80521E3E-C192-4B39-AF6C-25E2531DC68E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{80521E3E-C192-4B39-AF6C-25E2531DC68E}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{A7C19D2D-3F4D-4067-83E2-B3784224A7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C19D2D-3F4D-4067-83E2-B3784224A7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C19D2D-3F4D-4067-83E2-B3784224A7E3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C19D2D-3F4D-4067-83E2-B3784224A7E3}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{2459BD6F-B015-4D00-AEEF-1316DF40F89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2459BD6F-B015-4D00-AEEF-1316DF40F89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2459BD6F-B015-4D00-AEEF-1316DF40F89C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2459BD6F-B015-4D00-AEEF-1316DF40F89C}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{E6CC860D-5489-4699-8544-DB3F8ED394A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CC860D-5489-4699-8544-DB3F8ED394A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CC860D-5489-4699-8544-DB3F8ED394A3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CC860D-5489-4699-8544-DB3F8ED394A3}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{46E9B379-580E-497E-902E-361B1BC93390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E9B379-580E-497E-902E-361B1BC93390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E9B379-580E-497E-902E-361B1BC93390}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E9B379-580E-497E-902E-361B1BC93390}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{5BB1A4F2-8FF5-4102-9722-7CA41340A1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB1A4F2-8FF5-4102-9722-7CA41340A1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB1A4F2-8FF5-4102-9722-7CA41340A1E2}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB1A4F2-8FF5-4102-9722-7CA41340A1E2}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{BEEF66C3-7D3C-45FB-848D-C9BEB8E02C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEF66C3-7D3C-45FB-848D-C9BEB8E02C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEF66C3-7D3C-45FB-848D-C9BEB8E02C47}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEF66C3-7D3C-45FB-848D-C9BEB8E02C47}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{8860EC38-C866-4078-A0E1-FD65AB5ABF84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8860EC38-C866-4078-A0E1-FD65AB5ABF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8860EC38-C866-4078-A0E1-FD65AB5ABF84}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8860EC38-C866-4078-A0E1-FD65AB5ABF84}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
