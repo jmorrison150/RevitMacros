@@ -1,17 +1,9 @@
-//
-// Created by SharpDevelop.
-// User: michael
-// Date: 9/16/2014
-// Time: 11:18 AM
-// 
-// To change this template use Tools | Options | Coding | Edit Standard Headers.
-//
 using Microsoft.VisualBasic;
 using System.Collections.Generic;
 using System.Diagnostics;
 using Autodesk.Revit.UI;
 using Autodesk.Revit.DB;
-namespace archSmarter
+namespace JRM
 {
 
 	public partial class frmViewMaker

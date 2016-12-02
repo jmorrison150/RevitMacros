@@ -10,7 +10,7 @@ using Microsoft.VisualBasic.Devices;
 // If the VB application does not use the "My" namespace, or if you removed the usage
 // after the conversion to C#, you can delete this file.
 
-namespace archSmarter.My
+namespace JRM.My
 {
 	sealed partial class MyProject
 	{

@@ -1,4 +1,4 @@
-namespace archSmarter
+namespace JRM
 {
 	//
 	// Created by SharpDevelop.

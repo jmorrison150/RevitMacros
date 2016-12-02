@@ -1,18 +1,10 @@
-//
-// Created by SharpDevelop.
-// User: michael
-// Date: 9/15/2014
-// Time: 1:12 PM
-// 
-// To change this template use Tools | Options | Coding | Edit Standard Headers.
-//
 using System;
 using System.IO;
 using Microsoft.VisualBasic;
 using System.Collections.Generic;
 using System.Diagnostics;
 using Autodesk.Revit.UI;
-namespace archSmarter
+namespace JRM
 {
 
 	public partial class frmSheetMaker

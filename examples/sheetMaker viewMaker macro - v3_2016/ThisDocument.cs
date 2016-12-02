@@ -15,7 +15,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Diagnostics;
 using Microsoft.VisualBasic;
-namespace archSmarter
+namespace JRM
 {
 
 	[Autodesk.Revit.Attributes.Transaction(Autodesk.Revit.Attributes.TransactionMode.Manual)]
@@ -26,14 +26,14 @@ namespace archSmarter
 		public void makeViews()
 		{
 			//run view maker macro
-			mViewMaker.runViewMaker(this.Application.ActiveUIDocument.Document);
+			mViewMaker.runViewMaker(this.ActiveUIDocument.Document);
 
 		}
 
 		public void makeSheets()
 		{
 			//run sheet macro 
-			mSheetMaker.runSheetMaker(this.Application.ActiveUIDocument.Document);
+			mSheetMaker.runSheetMaker(this.ActiveUIDocument.Document);
 
 		}
 

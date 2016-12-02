@@ -1,13 +1,6 @@
-namespace archSmarter
+namespace JRM
 {
-	//
-	// Created by SharpDevelop.
-	// User: michael
-	// Date: 9/15/2014
-	// Time: 1:12 PM
-	// 
-	// To change this template use Tools | Options | Coding | Edit Standard Headers.
-	//
+
 	partial class frmSheetMaker : System.Windows.Forms.Form
 	{
 

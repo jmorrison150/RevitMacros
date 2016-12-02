@@ -7,7 +7,7 @@
 // To change this template use Tools | Options | Coding | Edit Standard Headers.
 //
  // ERROR: Not supported in C#: OptionDeclaration
-namespace archSmarter
+namespace JRM
 {
 
 	///
@@ -53,7 +53,7 @@ namespace archSmarter
 		}
 	}
 }
-namespace archSmarter
+namespace JRM
 {
 
 	///
